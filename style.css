@@ -85,6 +85,9 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    background-image: url(zyro-imagem.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 #home img{
     height: 25%;
@@ -97,6 +100,7 @@ main{
     align-items: center;
     font-size: 2.5em;
     font-family: "regular",sans-serif;
+    color: aliceblue;
 }
 
 #quartos{
